@@ -4,7 +4,7 @@ Generate strong, secure passwords with ease! This React application allows you t
 
 ## ✨ Demo
 
-[[]](https://password-generator-mu-pearl.vercel.app/)
+[[DEMO]](https://password-generator-mu-pearl.vercel.app/)
 
 ## 🚀 Features
 
@@ -33,7 +33,7 @@ The application is built using React and styled with Tailwind CSS. Here's a brie
 1.  Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone <akashsingh-hash/Password-generator>
     ```
 
 2.  Navigate to the project directory:
@@ -98,9 +98,6 @@ Contributions are welcome! Please follow these steps:
 5.  Push to the branch (`git push origin feature/YourFeature`).
 6.  Open a pull request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
