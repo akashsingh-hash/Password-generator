@@ -4,7 +4,7 @@ Generate strong, secure passwords with ease! This React application allows you t
 
 ## ✨ Demo
 
-[Provide a link to a live demo here if you deploy your project]
+[[]](https://password-generator-mu-pearl.vercel.app/)
 
 ## 🚀 Features
 
